@@ -1,0 +1,5 @@
+Pasinaudojant aptartomis žymomis: sukurti savo mėgstamos grupės koncerto svetainę, pridėti pavyzdinius 3 video, 3 audio ir žemėlapį su tariama vieta iš maps bei nuotraukų įvairių formatų.
+
+Viską įkelti į github.
+
+        Papildomai: prieš keliant dar galima stilizuoti kiek išeina su css. Remtis: https://www.w3schools.com/cssref/
